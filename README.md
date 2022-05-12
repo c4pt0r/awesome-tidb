@@ -1,4 +1,4 @@
-# awesome-tidb
+# Awesome TiDB
 ✨A list of awesome TiDB patterns, code templates, demos✨
 
 ## Code snippets & patterns
