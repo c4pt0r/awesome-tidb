@@ -9,7 +9,9 @@
 
 ## Libraries
 
-[tipubsub](https://github.com/c4pt0r/tipubsub): A scalable Pub/Sub library using TiDB
+[c4pt0r/tipubsub](https://github.com/c4pt0r/tipubsub): A scalable Pub/Sub library using TiDB
 
 
-## Demos
+## Misc
+
+[siddontang/xkcdsay](https://github.com/siddontang/xkcdsay): A cowsay alternative,  just for fun. Once again, Just for fun.
