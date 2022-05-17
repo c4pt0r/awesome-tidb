@@ -14,5 +14,5 @@
 
 ## Misc
 [siddontang/xkcdsay](https://github.com/siddontang/xkcdsay): A cowsay alternative,  just for fun. Once again, Just for fun.  
-[c4pt0r/evethebot](https://github.com/c4pt0r/evethebot): A telegram bot using TiDB cloud as backend.
+[c4pt0r/evethebot](https://github.com/c4pt0r/evethebot): A telegram bot using TiDB cloud as backend.  
 [ZHANGWENTAI/Payload-Simulator](https://github.com/ZHANGWENTAI/Payload-Simulator): Using TiDB KeyViz to draw picture.
