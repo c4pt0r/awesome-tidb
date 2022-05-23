@@ -9,9 +9,9 @@
 
 ## Libraries
 
-[c4pt0r/tipubsub](https://github.com/c4pt0r/tipubsub): A scalable Pub/Sub library using TiDB as backend
-[c4pt0r/tihall](https://github.com/c4pt0r/tihall): A distributed register center using TiDB as backend
-[c4pt0r/tiwatch](https://github.com/c4pt0r/tiwatch): a distributed key-value library, supports GET/SET/Watch at scale, using TiDB as backend
+[c4pt0r/tipubsub](https://github.com/c4pt0r/tipubsub): A scalable Pub/Sub library using TiDB as backend  
+[c4pt0r/tihall](https://github.com/c4pt0r/tihall): A distributed register center using TiDB as backend  
+[c4pt0r/tiwatch](https://github.com/c4pt0r/tiwatch): a distributed key-value library, supports GET/SET/Watch at scale, using TiDB as backend  
 
 
 ## Misc
