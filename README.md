@@ -24,6 +24,6 @@
 [ZHANGWENTAI/Payload-Simulator](https://github.com/ZHANGWENTAI/Payload-Simulator): Using TiDB KeyViz to draw picture.
 
 
-## Demo
+## Demo 🖥️
 
 [OSSInsight.io](https://ossinsight.io): Get insights from >4B GitHub Events, using TiDB as primary database
