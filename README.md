@@ -13,7 +13,7 @@
 [c4pt0r/tihall](https://github.com/c4pt0r/tihall): A distributed register center using TiDB as backend  
 [c4pt0r/tiwatch](https://github.com/c4pt0r/tiwatch): a distributed key-value library, supports GET/SET/Watch at scale, using TiDB as backend  
 [c4pt0r/tilist](https://github.com/c4pt0r/timq): WIP, distributed FIFO list  
-[c4pt0r/tijq](https://github.com/c4pt0r/timq): WIP, distributed Job Queue
+[c4pt0r/tijq](https://github.com/c4pt0r/timq): WIP, distributed Job Queue  
 [c4pt0r/ttlstore](https://github.com/c4pt0r/ttltable): WIP, a distributed Key-Value style library with TTL.  
 
 
