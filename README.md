@@ -15,6 +15,8 @@
 [c4pt0r/tilist](https://github.com/c4pt0r/timq): WIP, distributed FIFO list  
 [c4pt0r/tijq](https://github.com/c4pt0r/timq): WIP, distributed Job Queue  
 [c4pt0r/ttlstore](https://github.com/c4pt0r/ttltable): WIP, a distributed Key-Value style library with TTL.  
+[c4pt0r/tielect](https://github.com/c4pt0r/tielect): WIP, a distributed leader election library at scale.  
+
 
 
 
