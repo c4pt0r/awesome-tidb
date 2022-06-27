@@ -22,6 +22,7 @@
 [c4pt0r/evethebot](https://github.com/c4pt0r/evethebot): A telegram bot using TiDB cloud as backend.  
 [ZHANGWENTAI/Payload-Simulator](https://github.com/ZHANGWENTAI/Payload-Simulator): Using TiDB KeyViz to draw picture.  
 [lonng/ticomp](https://github.com/lonng/ticomp): Compare the query result of TiDB/MySQL server on the fly.
+[siddontang/ticomic](https://github.com/siddontang/ticomic): A Comic strip for TiDB, TiDB Cloud, Distributed System, Programming, etc.
 
 
 ## Demo 🖥️
