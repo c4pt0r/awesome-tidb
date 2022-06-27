@@ -16,6 +16,8 @@
 [c4pt0r/tilist](https://github.com/c4pt0r/tilist): WIP, distributed FIFO list    
 [c4pt0r/tijq](https://github.com/c4pt0r/timq): WIP, distributed Job Queue  
 [c4pt0r/ttlstore](https://github.com/c4pt0r/ttltable): WIP, a distributed Key-Value style library with TTL  
+[c4pt0r/tix](https://github.com/c4pt0r/tix): WIP, [T]iDB e[X]tension, a library of distributed building blocks using TiDB as backend.  
+
 
 ## Misc 😂
 [siddontang/xkcdsay](https://github.com/siddontang/xkcdsay): A cowsay alternative,  just for fun. Once again, Just for fun.  
